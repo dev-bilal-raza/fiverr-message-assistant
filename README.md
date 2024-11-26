@@ -36,7 +36,7 @@ Fiverr AI Message Assistant is a powerful Chrome extension that leverages AI to 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fiverr-message-assistant.git
+git clone https://github.com/dev-bilal-raza/fiverr-message-assistant.git
 cd fiverr-message-assistant
 ```
 
@@ -116,10 +116,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌍 Connect
 
-- Project Link: [https://github.com/your-username/fiverr-message-assistant](https://github.com/your-username/fiverr-message-assistant)
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-
+- Project Link: [https://github.com/dev-bilal-raza/fiverr-message-assistant](https://github.com/dev-bilal-raza/fiverr-message-assistant)
+- LinkedIn: [https://www.linkedin.com/in/dev-bilal-raza/](https://www.linkedin.com/in/dev-bilal-raza/)
 ---
 
 **Happy Communicating! 🚀**
