@@ -5,7 +5,7 @@ import { StrictMode } from 'react'
 import ContentPage from '@/content/content'
 
 const root = document.createElement('div')
-root.id = '__leetcode_ai_whisper_container'
+root.id = 'fiverr_ai_assistant_container'
 document.body.append(root)
 
 createRoot(root).render(
