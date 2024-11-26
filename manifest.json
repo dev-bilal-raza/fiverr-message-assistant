@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Fiverr Message Assistant",
+  "version": "1.0.0",
+  "description": "AI-powered message suggestion tool for Fiverr messaging, helping you communicate more effectively",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["src/content.tsx"],
+      "matches": ["https://www.fiverr.com/inbox/*"]
+    }
+  ],
+  "icons": {
+    "16": "icons/fiverr-icon16.png",
+    "48": "icons/fiverr-icon48.png",
+    "128": "icons/fiverr-icon128.png"
+  }
+}
